@@ -1,0 +1,1 @@
+print('Thanks for the financial aid Coursera!\nThanks for the course Michigan University!')
